@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+@import 'posts.scss';
+
+.custom-nav {
+  margin-top: 15px;
+}
